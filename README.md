@@ -1,2 +1,2 @@
 # MIT
-Hey Admissions please read!
+Hey Admissions please read my code!
